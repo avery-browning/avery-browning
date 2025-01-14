@@ -1,1 +1,1 @@
-I using GitHub to assist in my work! I have lightly used Java, HTML, and R Studio in university courses but am here to improve and learn more. 
+I using GitHub to assist in my work! I use mainly HTML, with some experience in Java and R Studio. I am here to work on my organization's website and to learn more.
